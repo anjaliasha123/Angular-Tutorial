@@ -35,7 +35,7 @@
   <h3 align="center">Angular Tutorial</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    This repository contains a journey to learn Angular if you are a beginner
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
